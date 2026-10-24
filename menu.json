@@ -1,0 +1,31 @@
+{
+  "pages": [
+    {
+      "id": "home",
+      "title": "Главное меню",
+      "items": [
+        {
+          "type": "button",
+          "label": "KinoHome",
+          "action": "https://lampa.stream",
+          "icon": "https://img.icons8.com/color/96/video.png",
+          "description": "Общий каталог фильмов, сериалов и телеканалов"
+        },
+        {
+          "type": "button",
+          "label": "YouTube",
+          "action": "https://www.youtube.com",
+          "icon": "https://img.icons8.com/color/96/youtube-play.png",
+          "description": "Видео и блоги"
+        },
+        {
+          "type": "button",
+          "label": "Spotify",
+          "action": "https://open.spotify.com",
+          "icon": "https://img.icons8.com/color/96/spotify.png",
+          "description": "Музыка и подкасты"
+        }
+      ]
+    }
+  ]
+}
